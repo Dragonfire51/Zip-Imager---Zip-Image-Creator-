@@ -6,7 +6,7 @@ Iomega Zip 100, 250 and 750 media (FAT16, optional MBR like real Zip disks).
 **Version:** 1.0.0
 
 ## Features
-- PowerISO-like GUI: add files/folders, new folder, rename, delete, capacity bar
+- Simple GUI: add files/folders, new folder, rename, delete, capacity bar
 - Drag & drop from Windows Explorer
 - New / Open / Save / Save As (`.img`, `.ima`, `.dsk`, `.bin`)
 - Long file name support, volume label, opens existing FAT16 Zip images
